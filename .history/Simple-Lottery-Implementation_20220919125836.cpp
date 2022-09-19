@@ -236,8 +236,7 @@ int main()
         else if (num4 == lottery4 && num5 == lottery5 && num6 == lottery6 && num7 == lottery7)
         {
             cout << "You won $4";
-        }
-        
+        }''
         
         // check if 5 numbers match
         else if (num1 == lottery1 && num2 == lottery2 && num3 == lottery3 && num4 == lottery4 && num5 == lottery5)
