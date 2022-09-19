@@ -1,0 +1,23 @@
+// C++ program to demonstrate the
+// boilerplate code
+#include <iostream>
+using namespace std;
+  
+// Driver Code
+int main()
+{
+
+    // get 7 numbers from user input
+    int num1, num2, num3, num4, num5, num6, num7;
+
+
+    cout << "Enter 7 numbers: ";
+        cin >> num;
+    
+    // genrate 7 digit numbers 
+    int lotteryNumbers = randomNumber();
+
+
+
+
+}
